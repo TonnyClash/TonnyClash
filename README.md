@@ -4,6 +4,15 @@
 
 <h3 align="center">🎓👾__Meu Nome e Tiago__😜✨</h3>
 
+###
+
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonnyclash"  />
 
 ###
@@ -27,12 +36,6 @@ LINK DO [KWAI CONTEÚDO](
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="50" />
@@ -43,29 +46,29 @@ LINK DO [KWAI CONTEÚDO](
 
 ###
 
- <h5 align="left">Minhas Redes Sociais</h5>
+ <h5 align="center">Minhas Redes Sociais</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
   <a href="https://youtube.com/@tonny_clash?feature=shared" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
+   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 
   <a href="https://www.instagram.com/tech_wizard_coder?igsh=MXFkZWJ6cmFhMW4xbQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
+   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 
   <a href="https://www.facebook.com/share/1MZHKXqwhMgyx7ME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo"  />
+   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 
   <a href="https://www.twitch.tv/tonnyclash" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" height="40" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 
 ###
