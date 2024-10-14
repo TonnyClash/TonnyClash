@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creativo...<br>📚 Determinado...'<br>🎯 Objetivo...<br>🎲 Competitivo...</p>
+<p align="left">✨ Criativo...<br>📚 Determinado...'<br>🎯 Objetivo...<br>🎲 Competitivo...</p>
 
 ###
 
@@ -40,20 +40,25 @@ LINK DO [KWAI CONTEÚDO](
 
 <div align="left">
   <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
+
   <a href="https://youtube.com/@tonny_clash?feature=shared" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
   </a>
+
   <a href="https://www.instagram.com/tech_wizard_coder?igsh=MXFkZWJ6cmFhMW4xbQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
   </a>
+
   <a href="https://www.facebook.com/share/1MZHKXqwhMgyx7ME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo"  />
   </a>
+
   <a href="https://www.twitch.tv/tonnyclash" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" height="40" alt="twitch logo"  />
   </a>
+
 </div>
 
 ###
