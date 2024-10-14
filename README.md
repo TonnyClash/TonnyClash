@@ -15,12 +15,12 @@
 ###
 
 ###
-LINK DO [CONTEÚDO]( 
+LINK DO [KWAI CONTEÚDO]( 
  https://k.kwai.com/u/@TechWizard/tcmC6k4L)
 
 ###
 
-MEUS CONHECIMENTOS E APRENDIZADOS
+**MEUS CONHECIMENTOS E APRENDIZADOS**
 
 ###
 
@@ -31,6 +31,10 @@ MEUS CONHECIMENTOS E APRENDIZADOS
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
 </div>
+
+###
+
+**Minhas Redes Sociais**
 
 ###
 
