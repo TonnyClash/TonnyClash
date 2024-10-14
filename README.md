@@ -27,6 +27,12 @@ LINK DO [KWAI CONTEÚDO](
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="50" />
@@ -34,7 +40,6 @@ LINK DO [KWAI CONTEÚDO](
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
 </div>
-
 
 ###
 
@@ -65,10 +70,6 @@ LINK DO [KWAI CONTEÚDO](
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 
 <h3 align="left">🔥   My Stats :</h3>
