@@ -14,7 +14,13 @@
 
 ###
 
-<h2 align="left">Meus Conhecimentos e Aprendizado</h2>
+###
+LINK DO [CONTEÚDO]( 
+ https://k.kwai.com/u/@TechWizard/tcmC6k4L)
+
+###
+
+MEUS CONHECIMENTOS E APRENDIZADOS
 
 ###
 
