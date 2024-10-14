@@ -19,8 +19,8 @@ LINK DO [KWAI CONTEÚDO](
  https://k.kwai.com/u/@TechWizard/tcmC6k4L)
 
 ###
-
-**MEUS CONHECIMENTOS E APRENDIZADOS**
+          
+  <h4 align="left">MEUS CONHECIMENTOS E APRENDIZADOS</h4>
 
 ###
 
@@ -34,7 +34,7 @@ LINK DO [KWAI CONTEÚDO](
 
 ###
 
-**Minhas Redes Sociais**
+ <h5 align="left">Minhas Redes Sociais</h5>
 
 ###
 
