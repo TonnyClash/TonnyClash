@@ -4,7 +4,10 @@
 
 <h3 align="center">🎓👾__Meu Nome e Tiago__😜✨</h3>
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tonnyclash"  />
+
 ###
+
 
 <h2 align="left">UM POUCO SOBRE MIM...</h2>
 
@@ -31,6 +34,7 @@ LINK DO [KWAI CONTEÚDO](
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
 </div>
+
 
 ###
 
@@ -59,6 +63,20 @@ LINK DO [KWAI CONTEÚDO](
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" height="40" alt="twitch logo"  />
   </a>
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tonnyclash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
