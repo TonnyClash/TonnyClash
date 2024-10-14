@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓👾__Meu Nome e Tiago__😜✨</p>
+<h3 align="center">🎓👾__Meu Nome e Tiago__😜✨</h3>
 
 ###
 
